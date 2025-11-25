@@ -1,20 +1,12 @@
-\# Save the Watermelon
+# Save the Watermelon
 
-
-
-\## What is this?
-
+## What is this?
 A simple word guessing game.  
-
 Guess the letters to save the watermelon before all slices are gone.
-
-
 
 ---
 
-
-
-\## How to Play
+## How to Play
 
 1\. Open terminal.  
 
@@ -26,55 +18,32 @@ Guess the letters to save the watermelon before all slices are gone.
 
 5\. Don’t let slices reach 0!
 
-
-
 ---
 
-
-
-\## How to Test
+## How to Test
 
 Run: python -m tests.test\_logic
 
-
-
-\- You can also play manually and try wrong guesses, repeated letters, or winning/losing.
-
-
+- You can also play manually and try wrong guesses, repeated letters, or winning/losing.
 
 ---
 
+## Game Rules
 
-
-\## Game Rules
-
-\- Wrong guess = lose a slice.  
-
-\- Guess all letters → win.  
-
-\- Slices 0 → lose.
-
-
+- Wrong guess = lose a slice.  
+- Guess all letters → win.  
+- Slices 0 → lose.
 
 ---
 
-
-
-\## Notes
-
-\- Only English letters.  
-
-\- No difficulty levels yet.  
-
-\- Word list is in `data/words.txt`.
-
-
+## Notes
+- Only English letters.  
+- No difficulty levels yet.  
+- Word list is in `data/words.txt`.
 
 ---
 
-
-
-\## Credits
+## Credits
 
 Made by Yeheon Kwon.
 
