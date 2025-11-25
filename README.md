@@ -1,8 +1,8 @@
 # Save the Watermelon
 
 ## What is this?
-A simple word guessing game.  
-Guess the letters to save the watermelon before all slices are gone.
+- A simple word guessing game.  
+- Guess the letters to save the watermelon before all slices are gone.
 
 ---
 
@@ -12,7 +12,10 @@ Guess the letters to save the watermelon before all slices are gone.
 
 2\. Go to the game folder.  
 
-3\. Run: python -m src.game
+3\. Run :   
+    **python -m src.game**   
+    or   
+    **python src/game.py**   
 
 4\. Guess letters one by one.  
 
@@ -22,7 +25,7 @@ Guess the letters to save the watermelon before all slices are gone.
 
 ## How to Test
 
-Run: python -m tests.test\_logic
+Run: **python -m tests.test\_logic**
 
 - You can also play manually and try wrong guesses, repeated letters, or winning/losing.
 
