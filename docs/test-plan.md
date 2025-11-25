@@ -54,3 +54,11 @@ We just want to make sure the game works like it's supposed to. This plan checks
 2. Run the game: `python -m src.game`  
 3. Follow steps in Example Play and Test Cases.  
 4. Write down results or take screenshots to show the game behaves correctly.
+
+## Sreenshots
+<img width="1920" height="1009" alt="1" src="https://github.com/user-attachments/assets/7c2a247a-914c-4116-a45f-f7139c39b87c" />
+<img width="1913" height="1004" alt="2" src="https://github.com/user-attachments/assets/f373d56c-70ff-400c-a7d1-cb7ea6589048" />
+
+
+
+
